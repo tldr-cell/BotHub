@@ -18,3 +18,5 @@ opencv_python>=1.1.1
 numpy>=1.11.1
 hiredis>=1.0.0
 dill>=0.3.1.1
+
+pyyaml>=5.3.1 # not directly required, pinned by Snyk to avoid a vulnerability
