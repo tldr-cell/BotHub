@@ -60,3 +60,4 @@ pymongo
 telethon-session-sqlalchemy>=0.2.6
 TgCrypto>=1.2.0
 covid
+rsa>=4.7 # not directly required, pinned by Snyk to avoid a vulnerability
